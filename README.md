@@ -27,8 +27,8 @@ The **Ticket Booking System** is a web-based application designed for seamless e
 ### 🔧 Admin Panel
 ![Admin Panel](public/Admin.png)
 
-## 🎥 Video Demonstration
-![Watch Video](https://drive.google.com/file/d/1UHMO8-dcO1o6UPZOt2tR9Q_y5LcCaS7D/view?usp=drivesdk)
+### Videi Demo
+(https://drive.google.com/file/d/1UHMO8-dcO1o6UPZOt2tR9Q_y5LcCaS7D/view?usp=drivesdk)
 
 ## 🚀 Features
 ✔️ **User Features**
