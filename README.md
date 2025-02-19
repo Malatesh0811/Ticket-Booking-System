@@ -45,7 +45,7 @@ The **Ticket Booking System** is a web-based application designed for seamless e
 ### 🔹 Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/ticket-booking-system.git
+   git clone https://github.com/Malatesh0811/Ticket-Booking-System.git
    cd ticket-booking-system
    ```
 2. Install dependencies:
